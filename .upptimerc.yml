@@ -6,6 +6,8 @@ repo: upptime
 sites:
   - name: Streetprez
     url: https://streetprez.com
+  - name: UpToBox
+    url: https://uptobox.com/
 
 
 status-website:
