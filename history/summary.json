@@ -5,6 +5,30 @@
     "slug": "streetprez",
     "status": "up",
     "uptime": "100.00%",
-    "time": 526
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 528,
+    "timeDay": 518,
+    "timeWeek": 528,
+    "timeMonth": 528,
+    "timeYear": 528
+  },
+  {
+    "name": "UpToBox",
+    "url": "https://uptobox.com/",
+    "slug": "up-to-box",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 258,
+    "timeDay": 258,
+    "timeWeek": 258,
+    "timeMonth": 258,
+    "timeYear": 258
   }
 ]
