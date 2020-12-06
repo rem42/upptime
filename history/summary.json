@@ -11,7 +11,7 @@
     "uptimeYear": "100.00%",
     "time": 539,
     "timeDay": 437,
-    "timeWeek": 502,
+    "timeWeek": 496,
     "timeMonth": 539,
     "timeYear": 539
   },
@@ -19,16 +19,16 @@
     "name": "UpToBox",
     "url": "https://uptobox.com/",
     "slug": "up-to-box",
-    "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
-    "time": 944,
-    "timeDay": 1485,
-    "timeWeek": 944,
-    "timeMonth": 944,
-    "timeYear": 944
+    "status": "up",
+    "uptime": "98.82%",
+    "uptimeDay": "96.05%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "98.82%",
+    "uptimeYear": "98.82%",
+    "time": 861,
+    "timeDay": 1243,
+    "timeWeek": 861,
+    "timeMonth": 861,
+    "timeYear": 861
   }
 ]
