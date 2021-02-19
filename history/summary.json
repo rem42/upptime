@@ -4,10 +4,10 @@
     "url": "https://streetprez.com",
     "icon": "https://favicons.githubusercontent.com/streetprez.com",
     "slug": "streetprez",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.86%",
     "time": 535,
@@ -16,6 +16,7 @@
     "timeMonth": 496,
     "timeYear": 535,
     "dailyMinutesDown": {
+      "2021-02-19": 1,
       "2021-01-25": 106,
       "2020-12-10": 61
     }
@@ -25,9 +26,9 @@
     "url": "https://uptobox.com/",
     "icon": "https://favicons.githubusercontent.com/uptobox.com",
     "slug": "up-to-box",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.85%",
@@ -37,6 +38,7 @@
     "timeMonth": 403,
     "timeYear": 396,
     "dailyMinutesDown": {
+      "2021-02-19": 0,
       "2021-01-31": 46,
       "2021-01-28": 24,
       "2020-12-07": 42,
