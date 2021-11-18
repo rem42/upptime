@@ -4,7 +4,7 @@
     "url": "https://streetprez.com",
     "icon": "https://favicons.githubusercontent.com/streetprez.com",
     "slug": "streetprez",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1335,
     "timeYear": 671,
     "dailyMinutesDown": {
+      "2021-11-18": 0,
       "2021-11-01": 18,
       "2021-10-06": 56,
       "2021-10-03": 17,
