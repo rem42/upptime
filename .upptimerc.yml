@@ -2,6 +2,8 @@
 owner: rem42
 repo: upptime
 
+runner: [linux, ARM64]
+
 # Add your sites here
 sites:
   - name: Streetprez
@@ -13,6 +15,7 @@ sites:
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.remy.ovh
+  theme: night
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
