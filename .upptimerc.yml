@@ -2,8 +2,6 @@
 owner: rem42
 repo: upptime
 
-runner: [linux, ARM64]
-
 # Add your sites here
 sites:
   - name: Streetprez
