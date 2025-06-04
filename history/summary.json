@@ -4,7 +4,7 @@
     "url": "https://streetprez.com",
     "icon": "https://icons.duckduckgo.com/ip3/streetprez.com.ico",
     "slug": "streetprez",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1378,
     "timeYear": 918,
     "dailyMinutesDown": {
+      "2025-06-04": 0,
       "2025-04-15": 23,
       "2025-04-14": 47,
       "2024-12-20": 30,
