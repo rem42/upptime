@@ -6,14 +6,14 @@
     "slug": "streetprez",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "97.86%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.52%",
     "time": 912,
-    "timeDay": 3172,
-    "timeWeek": 1575,
-    "timeMonth": 970,
+    "timeDay": 890,
+    "timeWeek": 1603,
+    "timeMonth": 972,
     "timeYear": 1046,
     "dailyMinutesDown": {
       "2025-09-03": 31,
@@ -29,8 +29,7 @@
       "2024-10-29": 15,
       "2024-10-28": 46,
       "2024-09-20": 385,
-      "2024-09-19": 213,
-      "2024-09-05": 199
+      "2024-09-19": 213
     }
   },
   {
@@ -45,9 +44,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 364,
-    "timeDay": 247,
-    "timeWeek": 373,
-    "timeMonth": 441,
+    "timeDay": 508,
+    "timeWeek": 415,
+    "timeMonth": 436,
     "timeYear": 385,
     "dailyMinutesDown": {}
   }
