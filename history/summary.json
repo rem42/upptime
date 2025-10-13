@@ -35,17 +35,19 @@
     "url": "https://uptobox.com/",
     "icon": "https://icons.duckduckgo.com/ip3/uptobox.com.ico",
     "slug": "up-to-box",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 367,
-    "timeDay": 365,
-    "timeWeek": 317,
-    "timeMonth": 330,
-    "timeYear": 388,
-    "dailyMinutesDown": {}
+    "time": 405,
+    "timeDay": 9885,
+    "timeWeek": 2703,
+    "timeMonth": 945,
+    "timeYear": 439,
+    "dailyMinutesDown": {
+      "2025-10-13": 0
+    }
   }
 ]
