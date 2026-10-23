@@ -11,10 +11,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.94%",
     "time": 847,
-    "timeDay": 1060,
-    "timeWeek": 2660,
-    "timeMonth": 1168,
-    "timeYear": 806,
+    "timeDay": 904,
+    "timeWeek": 2717,
+    "timeMonth": 1179,
+    "timeYear": 807,
     "dailyMinutesDown": {
       "2025-11-18": 119,
       "2025-11-24": 52,
@@ -30,18 +30,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/uptobox.com.ico",
     "slug": "up-to-box",
     "status": "down",
-    "uptime": "82.49%",
+    "uptime": "82.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 14902,
-    "timeDay": 19556,
-    "timeWeek": 19593,
-    "timeMonth": 20288,
+    "time": 14941,
+    "timeDay": 19809,
+    "timeWeek": 19586,
+    "timeMonth": 20295,
     "timeYear": 19807,
     "dailyMinutesDown": {
-      "2026-10-22": 23,
+      "2026-10-23": 25,
+      "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
@@ -404,8 +405,7 @@
       "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
-      "2025-10-24": 1440,
-      "2025-10-23": 1440
+      "2025-10-24": 1440
     }
   }
 ]
