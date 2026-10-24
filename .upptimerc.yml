@@ -5,9 +5,15 @@ repo: upptime
 # Add your sites here
 sites:
   - name: Streetprez
-    url: https://streetprez.com
-  - name: UpToBox
-    url: https://uptobox.com/
+    url: https://streetprez.com/
+  - name: CV
+    url: https://remy.ovh/
+  - name: Chacun sa part
+    url: https://chacunsapart.remy.ovh/
+  - name: EML Viewer
+    url: https://eml-viewer.remy.ovh/
+  - name: Score Print
+    url: https://score-print.remy.ovh/
 
 
 status-website:
